@@ -19,7 +19,7 @@ public class ChristmasTree {
             }
         }
     }
-    
+        
     public static void bottom() {
         System.out.println("     *");
         System.out.println("     *");
