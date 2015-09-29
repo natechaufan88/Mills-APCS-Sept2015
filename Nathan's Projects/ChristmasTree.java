@@ -1,6 +1,6 @@
 /* Nathan Chau
  * September 28, 2015
- * This program will use parameters to print out any size Christmas Tree.
+ * This program will use parameters to print out two different sized Christmas Tree.
  */
 
 public class ChristmasTree {
